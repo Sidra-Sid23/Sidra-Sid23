@@ -14,7 +14,7 @@
 • 💪🏻 I'm an AI Enthusiast.<br>
 • 🌱 I’m currently learning Generative AI... 😭<br> 
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
-• 📗 I'm currently Learning from Datacraft Mastering Analytics, PIAIC.<br>
+• 📗 I'm currently Learning from Datacraft Mastering Analytics, Bano Qabil.4.0.<br>
 • 🔥 Advance Excel, Google sheet and SQL .<br>
 <hr>
 
