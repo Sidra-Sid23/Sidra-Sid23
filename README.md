@@ -27,5 +27,5 @@
     <a href="Sidra.siddiqui@live.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Sidra Siddiqui - Email"></a>
     <a href="https:https://www.linkedin.com/in/sidra-siddiqui-b1771a36?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BC8C4TJ6hTB%2BVTjzWSzSEKw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="MuaazAsif Ali-Linkedin"></a><br>
     
-<a href="https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/329973" target="_blank"><img src="https://img.shields.io/badge/PowerBi-0D1117?style=for-the-badge&logo=SQL&logoColor=F0DB4F" alt="Sidra Siddiqui-SQL"></a>
+<a href="https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/329973" target="_blank"><img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=SQL&logoColor=F0DB4F" alt="Sidra Siddiqui-SQL"></a>
 	
