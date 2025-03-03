@@ -14,8 +14,8 @@
 • 💪🏻 I'm a Web3, and AI Enthusiast.<br>
 • 🌱 I’m currently learning LLM's and Generative AI... 😭<br> 
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
-• 📗 I'm currently Learning from Panaverse, PIAIC.<br>
-• 🔥 Python Developer and Power BI Developer.<br>
+• 📗 I'm currently Learning from Datacraft Mastering Analytics, PIAIC.<br>
+• 🔥 Advance Excel, Google sheet and SQL .<br>
 • 💸 LEVEL-01 SELLER of MuaazAsif on Fiverr.<br>
 <hr>
 
