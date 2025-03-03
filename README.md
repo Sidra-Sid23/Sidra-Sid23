@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Sidra Siddiqui👋</h1>
   </div>
 <p align="center">
-<a href="https://github.com/muaazasif"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analysis+and+Python+Developer;+Power+BI+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/muaazasif"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Crafting +Analysis;&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
 <!-- animation end  -->
 			
@@ -11,12 +11,11 @@
 	src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 <hr>
 <h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
-• 💪🏻 I'm a Web3, and AI Enthusiast.<br>
-• 🌱 I’m currently learning LLM's and Generative AI... 😭<br> 
+• 💪🏻 I'm an AI Enthusiast.<br>
+• 🌱 I’m currently learning Generative AI... 😭<br> 
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
 • 📗 I'm currently Learning from Datacraft Mastering Analytics, PIAIC.<br>
 • 🔥 Advance Excel, Google sheet and SQL .<br>
-• 💸 LEVEL-01 SELLER of MuaazAsif on Fiverr.<br>
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
